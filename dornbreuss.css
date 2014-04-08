@@ -1,0 +1,16 @@
+a:visited{text-decoration: none;color: #990033}
+a:hover {text-decoration: none;color: #990033}
+a:active {text-decoration: none;color: #990033}
+a:link  {text-decoration: none;color: #990033}
+.fliesstext {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: normal; color: #000000}
+.fliesstextfett {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; color: #000000}
+.titel {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; line-height: normal; font-weight: bold; color: #000000}
+.countertext { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-style: normal; line-height: normal; font-weight: normal; color: #FFFFFF}
+.fliesstextklein { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; color: #000000}
+.titelgross { font-family: Arial, Helvetica, sans-serif; font-size: 16pt; font-style: normal; line-height: normal; font-weight: bold; color: #000000}
+.mini {
+font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; line-height: normal; font-weight: normal; color: #000000
+}
+.ftfettrot {
+font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; color: #990033
+}
